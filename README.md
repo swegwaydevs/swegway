@@ -1,3 +1,3 @@
-# <a hreaf="https://www.theswegwayshop.co.uk/">swegway</a>
+# <a href="https://www.theswegwayshop.co.uk/">swegway</a>
 swegway development
-Development hub for UK <a hreaf="https://www.theswegwayshop.co.uk/">swegway</a> develpment.
+Development hub for UK <a href="https://www.theswegwayshop.co.uk/">swegway</a> develpment.
